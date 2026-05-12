@@ -11,6 +11,7 @@ public class Program
         Task3();
         Console.WriteLine();
         Task4();
+        Console.ReadKey();
     }
 
     // Task 1:
