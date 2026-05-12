@@ -13,7 +13,7 @@ public class Program
         Task4();
         Console.ReadKey();
     }
-
+    
     // Task 1:
     static void Task1()
     {
